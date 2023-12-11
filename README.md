@@ -2,7 +2,7 @@
 
 - 🌱 I am currently developing applications on the backend using **Django Rest Framework (DRF)**, and I am also learning **React** for the frontend.
 
-- 💬 Ask me about **Javascript, React.js, Python, Django & DRF**https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
+- 💬 Ask me about **Javascript, React.js, Python, Django & DRF**
 
 - 📫 How to reach me **oneryildiz.furkan@gmail.com**
 
